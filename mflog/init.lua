@@ -1,4 +1,3 @@
-
 -- Tag 1 used by stfout
 local Logger = {
 	setupd = false,
